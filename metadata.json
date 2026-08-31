@@ -1,0 +1,7 @@
+{
+  "name": "CineLog",
+  "description": "A warm, cinematic personal movie journal, watchlist, and viewing diary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
